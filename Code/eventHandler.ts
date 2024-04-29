@@ -1,4 +1,3 @@
-// eventHandler.ts
 import { NaveEspacial } from './spaceship';
 import { Evento } from './event';
 
